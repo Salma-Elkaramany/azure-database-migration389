@@ -13,8 +13,8 @@ This repository will be a detailed documentation channelling different milestone
 
 
 ## Table of Contents
-- [Milestone 1: Set up the environment](#milestone-1:-set-up-the-environment)
-- [Milestone 2: Set up the production environment](#milestone-2:-set-up-the-production-environment)
+- [Milestone 1: Set up the environment](#Milestone-1:-Set-up-the-environment)
+- [Milestone 2: Set up the production environment](#Milestone-2:-Set-up-the-production-environment)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
