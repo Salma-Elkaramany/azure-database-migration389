@@ -7,22 +7,30 @@ First, began by establishing a production environment database. Subsequently, mi
 
 A pivotal phase of the project involves simulating a disaster recovery scenario with potential data loss. Furthermore, I explored the complexities of geo-replication and failover configuration to ensure data availability even under challenging conditions.
 
-To enhance security, Microsoft Entra ID integration will be employed to define access roles, adding an extra layer of control and protection.
+To enhance security, Microsoft Entra ID integration is employed to define access roles, adding an extra layer of control and protection.
 
-This repo will be detailed documentation channelling different milestones for the successful completion of this project.
+This repository will be a detailed documentation channelling different milestones and tasks for the successful completion of this project.
 
 
 ## Table of Contents
-- [Project Description](#description)
-- [Key Features](#key-features)
+- [Milestone 1: Set up the environment](#milestone-1:-Set-up-the-environment)
+- [Milestone 2: Set up the production environment](#milestone-2:-Set-up-the-production-environment)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [License](#license)
 
 
-### Project Goals
-- 
+### Milestone 1: Set up the environment
+- This GitHub repo for the project was created.
+- Set up a Microsoft Azure account.
+
+## Task 1: 
+
+
+
+### Milestone 2: Set up the production environment
+
 
 
 ## License
