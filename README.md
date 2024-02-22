@@ -15,6 +15,7 @@ This repository will be a detailed documentation channelling different milestone
 ## Table of Contents
 - [Milestone 1: Set up the environment](#Milestone-1:-Set-up-the-environment)
 - [Milestone 2: Set up the production environment](#Milestone-2:-Set-up-the-production-environment)
+- [Milestone 3: Install SQL Server and SSMS](#Milestone-3:-Install-SQL-Server-and-SSMS)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
@@ -30,6 +31,9 @@ This repository will be a detailed documentation channelling different milestone
 
 
 ## Milestone 2: Set up the production environment
+
+
+## Milestone 3: Install SQL Server and SSMS
 
 
 
